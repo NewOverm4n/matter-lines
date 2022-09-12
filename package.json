@@ -4,7 +4,7 @@
   "description": "",
   "main": "/js/main.js",
   "files": [
-    "lib"
+    "js"
   ],
   "scripts": {
     "test": "mocha test/**/*.js --compilers js:babel-register",
