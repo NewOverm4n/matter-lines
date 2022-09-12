@@ -2,7 +2,7 @@
   "name": "matter-lines",
   "version": "0.1.0",
   "description": "",
-  "main": "lib/js/main.js",
+  "main": "/js/main.js",
   "files": [
     "lib"
   ],
